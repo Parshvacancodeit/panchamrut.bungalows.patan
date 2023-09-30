@@ -1,0 +1,23 @@
+body{
+    font-family: 'Outfit', sans-serif;
+    margin :0;
+    background-color: #FAF1E4;
+}
+.container-fluid{
+    background-color: #9DC08B !important;
+    width: 100%;
+}
+
+.nav-link{
+    color: black !important;
+    font-size: 1.25rem !important;
+
+}
+
+.cl1234{
+    color: #435334 !important;
+    font-size: 1.45rem !important;
+    font-weight: 800 !important;
+    
+   
+}
